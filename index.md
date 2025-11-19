@@ -1,0 +1,2 @@
+- [x] Having the course
+- [ ] Finish the course
